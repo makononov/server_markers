@@ -44,6 +44,9 @@ if (window.top == window.self) {
     body {\
       margin-left: 35px !important;\
     }\
+    body.htmlPage {\
+    	margin-left: 35px !important;\
+    }\
     .external-link::after {\
         display: inline-block;\
         content: ' ';\
