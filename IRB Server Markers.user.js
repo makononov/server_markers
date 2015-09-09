@@ -1,11 +1,12 @@
 // ==UserScript==
-// @name       IRB Server Markers
-// @namespace  http://www.mishakononov.com/
-// @version    0.3
-// @description  Display color-coded server markers on IRB pages
-// @match      http://*.irb.psu.edu/*
-// @match	   https://*.irb.psu.edu/*
-// @copyright  2013-2014, Misha Kononov
+// @name       	IRB Server Markers
+// @namespace  	http://www.mishakononov.com/
+// @version    	0.3.1
+// @description Display color-coded server markers on IRB pages
+// @match      	http://*.irb.psu.edu/*
+// @match	https://*.irb.psu.edu/*
+// @copyright  	2013-2015, Misha Kononov
+// @grant	none
 // ==/UserScript==
 
 if (window.top == window.self) {
