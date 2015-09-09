@@ -3,6 +3,7 @@
 // @namespace  	http://www.mishakononov.com/
 // @version    	0.3.1
 // @description Display color-coded server markers on IRB pages
+// @updateURL	https://raw.githubusercontent.com/makononov/server_markers/master/IRB%20Server%20Markers.user.js
 // @match      	http://*.irb.psu.edu/*
 // @match	https://*.irb.psu.edu/*
 // @copyright  	2013-2015, Misha Kononov
